@@ -1,0 +1,61 @@
+body, html{
+    margin: 0;
+    padding:0;
+    height: 100%;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+#container{
+    background-image: url("images/fox.jpg");
+    background-size: cover;
+    width: 100%;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left:0;
+    background-position: 50% 50%;
+    position: relative;
+    margin: 0 auto;
+    clear: both;
+    height: 100%;
+
+}
+.centerbox{
+    width: 90%;
+    margin: 0 auto;
+
+
+}
+.header{
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+}
+.nav{
+    float: right;
+}
+.nav a{
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.rightsection{
+    float: right;
+    padding-top: 380px;
+    padding-right: 180px;
+}
+h2{
+    font-size: 80px;
+    margin:0;
+}
+p{
+    font-size: 20px;
+}
+.copyright{
+    float: right;
+    overflow: hidden;
+}

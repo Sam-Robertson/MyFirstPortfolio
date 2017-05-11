@@ -1,0 +1,27 @@
+.maps{
+    position: fixed;
+    right: 40%;
+    top: 100px;
+
+}
+#haircontact {
+    background-image: url("images/dark_wood_@2X.png");
+    color: whitesmoke;
+    font-family: Helvetica, sans-serif;
+}
+body, html {
+    margin: 0;
+    padding: 8px;
+    color: whitesmoke;
+    font-family: Helvetica, sans-serif;
+    background-size: cover;
+}
+.back {
+    color: whitesmoke;
+    float: right;
+    margin-right: 2%;
+    font-size: 150%;
+    font-family: Baskerville, sans-serif;
+    margin-top: 2%;
+    text-decoration: none;
+}

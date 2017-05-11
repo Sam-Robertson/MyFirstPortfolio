@@ -1,0 +1,147 @@
+.back{
+    color: whitesmoke;
+    float: right;
+    margin-right: 2%;
+    font-size: 150%;
+    font-family: Baskerville, sans-serif;
+    margin-top: 2%;
+    text-decoration: none;
+
+}
+#aboutme{
+    color: whitesmoke;
+    line-height: 1.6;
+    background-image: url("http://goodwillwatching.com/wp-content/uploads/2014/08/Batman-The-Dark-Knight-Steel-Logo-Emblem-1600x1000.jpg");
+    background-size: cover;
+}
+#contactme{
+    background-image: url("images/dark-pattern-backgrounds-wallpaper-2.jpg");
+    color: whitesmoke;
+    font-family: Helvetica, sans-serif;
+}
+.metext{
+    padding-right: 600px;
+}
+.youtube{
+    float: right;
+    position: fixed;
+    bottom: 30%;
+    right: .75%;
+}
+.Contacttitle{
+    font-family: Helvetica, sans-serif;
+}
+.batman{
+    background-image: url("images/Batman1.gif");
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    color: darkred;
+    height: 60px;
+    width: 160px;
+    margin: 0;
+
+}
+.maintitle {
+    font-family: 'Maven Pro', sans-serif;
+    color: lightgray;
+    text-align: center;
+    padding-left: 1%;
+    font-size: 170%;
+
+}
+#homepage{
+    background-image: url("images/44038_comics_batman_batman_silhouette.jpg");
+    max-width: 100%;
+    max-height: 100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#project1{
+    background-image: url("images/dark-pattern-backgrounds-wallpaper-2.jpg");
+    color: whitesmoke;
+    line-height: 35px;
+
+}
+.titles{
+    width: 100%;
+    padding-left: 2%;
+    border-bottom: 1px solid white;
+    overflow: hidden;
+    text-align: center;
+}
+
+#project2 {
+    background-image: url("images/dark-pattern-backgrounds-wallpaper-2.jpg");
+    color: whitesmoke;
+}
+#project3{
+    background-image: url("images/dark-pattern-backgrounds-wallpaper-2.jpg");
+    color: whitesmoke;
+}
+.topleft {
+    position: fixed;
+    left:17%;
+    top:22%;
+}
+.topright{
+    position: fixed;
+    left: 80%;
+    top: 22%;
+}
+.middle{
+    position: fixed;
+    left:47%;
+    top:60%;
+}
+.bottomleft{
+    position: fixed;
+    left: 21%;
+    bottom: 12%;
+}
+.bottomright{
+    position: fixed;
+    left: 76%;
+    bottom: 12%;
+}
+.hplink{
+    color: darkred;
+    text-decoration: none;
+    padding-left: 34%;
+}
+.links{
+    text-decoration: none;
+    position: relative;
+    top: 16px;
+    right: 4px;
+}
+.project1body{
+    position: relative;
+    left: 20%;
+    height: auto;
+    width: 60%;
+
+
+}
+.mainlink{
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 150%;
+}
+.conclusion{
+    font-size: 25px;
+}
+.start{
+    font-size: 20px;
+}
+.firstparagraph{
+    font-size: 20px;
+}
+.moreme{
+    width: 34%;
+}
+.bottomme{
+    width:45%;
+}

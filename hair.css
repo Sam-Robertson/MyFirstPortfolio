@@ -1,0 +1,77 @@
+body, html {
+    margin: 0;
+    padding: 8px;
+    color: whitesmoke;
+    font-family: Helvetica, sans-serif;
+    background-image: url("http://content.acclaimmag.com/content/uploads/2016/04/1280-questlove.jpg");
+    background-size: cover;
+}
+#main {
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-position: 50% 50%;
+    position: relative;
+    margin: 0 auto;
+    clear: both;
+    height: 100%;
+}
+.centerbox{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.header{
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    font-size: 30px;
+}
+.nav{
+    float: right;
+    padding-top: 13px;
+}
+.nav a{
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.rightsection{
+    float: right;
+    padding-top: 380px;
+    padding-right: 180px;
+    font-family: 'Calligraffitti', cursive;
+}
+h2{
+    font-size: 80px;
+    margin:0;
+}
+p{
+    font-size: 20px;
+}
+.footer {
+    width: 100%;
+    background-color: #000000;
+    opacity: .7;
+    position: relative;
+    bottom: 0;
+    height: auto;
+}
+.backport{
+    color: whitesmoke;
+    float: left;
+    margin-right: 2%;
+    font-size: 150%;
+    font-family: Baskerville, sans-serif;
+    margin-top: 12%;
+    text-decoration: none;
+}
+.glyphicon-arrow-left{
+    3px
+}
